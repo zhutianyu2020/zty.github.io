@@ -81,7 +81,9 @@ a:hover{
 }
 
 
-
+#pictures{
+  text-align:center;
+}
 
 
 #elixirs a:link{
